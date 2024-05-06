@@ -1,0 +1,35 @@
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+header .logo img {
+    height: 40px; /* ajuste conforme necessário */
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul  a {
+    
+    display: inline;
+    margin-left: 20px; /* ajuste conforme necessário */
+}
+
+header a{
+    text-decoration: none;
+    color: #fff;
+}
+
+header nav ul  a:hover {
+    color:  #ffbb33;
+}

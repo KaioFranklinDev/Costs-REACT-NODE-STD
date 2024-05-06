@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+footer {
+    background-color: #333; /* Cor de fundo do footer */
+    color: #fff; /* Cor do texto do footer */
+    padding: 0px;
+    text-align: center; /* Alinhamento do texto ao centro */
+    position: fixed; /* Fixa o footer na parte inferior da página */
+    width: 100%; /* Largura total */
+    bottom: 0; /* Coloca o footer no final da página */
+    padding-bottom: 5px;
+}
+svg:hover{
+    color: #ffbb33  ;
+}
+footer svg {
+    margin-top: 10px;
+     font-size: 26px;
+}
+
+footer span{
+    font-size: 26px;
+    color: #ffbb33;
+}
+footer p{color: #b6b6b6;}

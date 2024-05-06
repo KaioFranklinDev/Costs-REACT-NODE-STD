@@ -1,0 +1,5 @@
+.home_container{padding-top: 30px;}
+.home_container img{ padding-top: 40px; height: 300px;}
+.home_container span { color: #ffbb33;}
+.home_container p {color: black;}
+.home_container a {text-decoration: none; color: black;}
